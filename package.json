@@ -1,0 +1,16 @@
+{
+  "name": "pato-platina",
+  "version": "1.0.0",
+  "description": "Projeto com o objetivo de criar uma pagina de platina (completar 100% de um jogo) de jogos, com foco em Dark Souls.  Objetivo do projeto é a pratica de JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
