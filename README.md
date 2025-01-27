@@ -37,7 +37,7 @@ Criar uma página interativa e funcional para acompanhar o progresso de platina 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/pato-platina.git
+   git clone https://github.com/Cardosogoc/pato-platina
    ```
 
 2. Instale as dependências:
@@ -50,17 +50,10 @@ Criar uma página interativa e funcional para acompanhar o progresso de platina 
    npm run dev
    ```
 
-4. Acesse em [http://localhost:3000](http://localhost:3000).
-
 ---
 
 ## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
----
-
-## 📜 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
