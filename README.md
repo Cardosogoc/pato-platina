@@ -26,6 +26,7 @@ Criar uma página interativa e funcional para acompanhar o progresso de platina 
 ---
 
 ## 🛠️ Funcionalidades Futuras
+
 - 🎮 Adicionar suporte para outros jogos.
 - 📊 Estatísticas detalhadas do progresso.
 - 🧩 Funcionalidades interativas para a comunidade.
@@ -36,11 +37,13 @@ Criar uma página interativa e funcional para acompanhar o progresso de platina 
 ## 📂 Como Executar o Projeto
 
 1. Clone o repositório:
+
    ```bash
    git clone https://github.com/Cardosogoc/pato-platina
    ```
 
 2. Instale as dependências:
+
    ```bash
    npm install
    ```
@@ -53,9 +56,11 @@ Criar uma página interativa e funcional para acompanhar o progresso de platina 
 ---
 
 ## 🤝 Contribuição
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
 ---
 
 ## 💡 Inspiração
+
 Este projeto foi inspirado pela paixão por jogos e pelo desejo de dominar as tecnologias modernas de desenvolvimento web.
