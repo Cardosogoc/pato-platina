@@ -24,7 +24,7 @@ Projeto com o objetivo de criar uma página de platina auxilie jogadores de vide
 
 ## 🎯 Objetivo
 
-Criar uma página interativa e funcional para acompanhar o progresso de platina em jogos, com foco inicial em **Dark Souls**. Além disso, o projeto busca aplicar conceitos modernos de desenvolvimento web e aprimorar habilidades em tecnologias como **Next.js** e **JavaScript**.
+Criar uma página interativa e funcional para acompanhar o progresso de platina em jogos, com foco inicial em **Dark Souls**. Além disso, o projeto busca aplicar conceitos modernos de desenvolvimento web e aprimorar habilidades em tecnologias como **Next.js**, **React** e **JavaScript**.
 
 ---
 
