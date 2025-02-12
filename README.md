@@ -1,10 +1,11 @@
 # 🦆 Pato-Platina
 
-Projeto com o objetivo de criar uma página de platina (completar 100% de um jogo) de jogos, inicialmente focado em **Dark Souls**. O objetivo principal do projeto é a prática e o aprimoramento de habilidades em:
+Projeto com o objetivo de criar uma página de platina auxilie jogadores de video game alcançar o almejado 100% dos troféus de algum jogo de interesse dele, porém inicialmente focado em **Dark Souls**. O objetivo verdadeiro do projeto é a prática e o aprimoramento de habilidades em:
 
 - **JavaScript**
 - **Next.js**
 - **Versionamento com Git**
+- **React**
 - E outras áreas do Desenvolvimento Web.
 
 ---
