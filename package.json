@@ -4,7 +4,10 @@
   "description": "Projeto com o objetivo de criar uma pagina de platina (completar 100% de um jogo) de jogos, com foco em Dark Souls.  Objetivo do projeto é a pratica de JavaScript.",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
+    "dev": "npm run services:up && next dev",
+    "services:up": "docker compose -f infra/compose.yaml up -d",
+    "services:stop": "docker compose -f infra/compose.yaml stop",
+    "services:down": "docker compose -f infra/compose.yaml down",
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write .",
     "test": "jest",
